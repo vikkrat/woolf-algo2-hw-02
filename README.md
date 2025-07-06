@@ -12,7 +12,7 @@
 ## Структура проекту
 
 ```
-goit-algo2-hw-02/
+woolf-algo2-hw-02/
 ├── main.py
 ├── README.md
 ├── screenshots/
